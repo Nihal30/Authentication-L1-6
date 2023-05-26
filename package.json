@@ -9,6 +9,7 @@
   "author": "Nihal",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^7.2.1"
+    "mongoose": "^7.2.1",
+    "mongoose-encryption": "^2.1.2"
   }
 }
